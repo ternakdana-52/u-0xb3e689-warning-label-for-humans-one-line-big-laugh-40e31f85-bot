@@ -7,7 +7,7 @@ human being: funny first, plausible second.
 import os
 import sys
 
-LINE = "WARNING: This human will say 'I'm five minutes away' for the next forty minutes. Do not rely on this human for timing."
+LINE = "WARNING: This human will open the fridge, stare inside for a full minute, and close it having learned absolutely nothing."
 
 
 def main():
